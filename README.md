@@ -2,11 +2,11 @@
 
 A 3D first person perspective puzzle game demo
 
-## How to Run / 如何运行
+## How to Run 
 
 1.  **For Windows Users:**
     *   Download the entire repository.
-    *   Navigate to the `Builds/Windows` folder (或者你存放exe文件的实际路径).
+    *   Navigate to the `Builds/Windows` folder.
     *   Double-click `WhichDreamlt.exe` to play.
 2. When downloading large files you have to click "view raw" to see all files/
 
